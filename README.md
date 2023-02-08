@@ -9,3 +9,5 @@ You can find my site online here: http://www.korea.fi/technigo2/
 PS. If you want to see the original group tas version, you can find it here:
 
 https://lions-save-the-ocean.netlify.app 
+
+PPS. The video should be lighter. I wil fix that later :-)
